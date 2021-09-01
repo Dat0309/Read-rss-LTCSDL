@@ -1,0 +1,10 @@
+D:\NAM3\Read-rss-LTCSDL\Read_VNEXPRESS\Read_VNEXPRESS\bin\Debug\Read_VNEXPRESS.exe.config
+D:\NAM3\Read-rss-LTCSDL\Read_VNEXPRESS\Read_VNEXPRESS\bin\Debug\Read_VNEXPRESS.exe
+D:\NAM3\Read-rss-LTCSDL\Read_VNEXPRESS\Read_VNEXPRESS\bin\Debug\Read_VNEXPRESS.pdb
+D:\NAM3\Read-rss-LTCSDL\Read_VNEXPRESS\Read_VNEXPRESS\obj\Debug\Read_VNEXPRESS.csproj.AssemblyReference.cache
+D:\NAM3\Read-rss-LTCSDL\Read_VNEXPRESS\Read_VNEXPRESS\obj\Debug\Read_VNEXPRESS.Form1.resources
+D:\NAM3\Read-rss-LTCSDL\Read_VNEXPRESS\Read_VNEXPRESS\obj\Debug\Read_VNEXPRESS.Properties.Resources.resources
+D:\NAM3\Read-rss-LTCSDL\Read_VNEXPRESS\Read_VNEXPRESS\obj\Debug\Read_VNEXPRESS.csproj.GenerateResource.cache
+D:\NAM3\Read-rss-LTCSDL\Read_VNEXPRESS\Read_VNEXPRESS\obj\Debug\Read_VNEXPRESS.csproj.CoreCompileInputs.cache
+D:\NAM3\Read-rss-LTCSDL\Read_VNEXPRESS\Read_VNEXPRESS\obj\Debug\Read_VNEXPRESS.exe
+D:\NAM3\Read-rss-LTCSDL\Read_VNEXPRESS\Read_VNEXPRESS\obj\Debug\Read_VNEXPRESS.pdb
