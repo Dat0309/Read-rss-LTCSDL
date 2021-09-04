@@ -8,3 +8,9 @@ D:\NAM3\Read-rss-LTCSDL\Read_VNEXPRESS\Read_VNEXPRESS\obj\Debug\Read_VNEXPRESS.c
 D:\NAM3\Read-rss-LTCSDL\Read_VNEXPRESS\Read_VNEXPRESS\obj\Debug\Read_VNEXPRESS.csproj.CoreCompileInputs.cache
 D:\NAM3\Read-rss-LTCSDL\Read_VNEXPRESS\Read_VNEXPRESS\obj\Debug\Read_VNEXPRESS.exe
 D:\NAM3\Read-rss-LTCSDL\Read_VNEXPRESS\Read_VNEXPRESS\obj\Debug\Read_VNEXPRESS.pdb
+D:\NAM3\Read-rss-LTCSDL\Read_VNEXPRESS\Read_VNEXPRESS\obj\Debug\Read_VNEXPRESS.NewFeesForm.resources
+D:\NAM3\Read-rss-LTCSDL\Read_VNEXPRESS\Read_VNEXPRESS\bin\Debug\Data\data.txt
+D:\NAM3\Read-rss-LTCSDL\Read_VNEXPRESS\Read_VNEXPRESS\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\NAM3\Read-rss-LTCSDL\Read_VNEXPRESS\Read_VNEXPRESS\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\NAM3\Read-rss-LTCSDL\Read_VNEXPRESS\Read_VNEXPRESS\obj\Debug\Read_VNEXPRESS.Component.NewsControl.resources
+D:\NAM3\Read-rss-LTCSDL\Read_VNEXPRESS\Read_VNEXPRESS\obj\Debug\Read_VNEXPRESS.csproj.CopyComplete

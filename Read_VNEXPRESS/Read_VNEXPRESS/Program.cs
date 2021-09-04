@@ -14,9 +14,15 @@ namespace Read_VNEXPRESS
         [STAThread]
         static void Main()
         {
+
+            RssFeed.NewParser parser = new RssFeed.NewParser();
+            RssFeed.RSSReader rssReader = new RssFeed.RSSReader(parser);
+            IO.INewRepo repo = new IO.NewRepo();
+            var manager = new NewFeedManager(repo, rssReader);
+
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new Form1(manager));
         }
     }
 }
