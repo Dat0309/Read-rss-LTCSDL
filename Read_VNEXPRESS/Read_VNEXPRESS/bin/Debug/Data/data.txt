@@ -9,5 +9,4 @@
 @Thanh niên
 #Thể thao^http://www.thanhniennews.com/rss/sports-6.rss
 #Sức khỏe^http://www.thanhniennews.com/rss/health-9.rss
-#Săn việc^https://thanhnien.vn/rss/viec-lam/san-viec.rss
-#Góc nhìn^https://thanhnien.vn/rss/the-gioi/goc-nhin.rss
+#Hồ sơ^https://thanhnien.vn/rss/the-gioi/ho-so.rss
