@@ -1,0 +1,13 @@
+D:\NAM3\Read-rss-LTCSDL\RSS_KQ_XOSO\RSS_KQ_XOSO\bin\Debug\Data\Data.txt
+D:\NAM3\Read-rss-LTCSDL\RSS_KQ_XOSO\RSS_KQ_XOSO\bin\Debug\RSS_KQ_XOSO.exe.config
+D:\NAM3\Read-rss-LTCSDL\RSS_KQ_XOSO\RSS_KQ_XOSO\bin\Debug\RSS_KQ_XOSO.exe
+D:\NAM3\Read-rss-LTCSDL\RSS_KQ_XOSO\RSS_KQ_XOSO\bin\Debug\RSS_KQ_XOSO.pdb
+D:\NAM3\Read-rss-LTCSDL\RSS_KQ_XOSO\RSS_KQ_XOSO\obj\Debug\RSS_KQ_XOSO.csproj.AssemblyReference.cache
+D:\NAM3\Read-rss-LTCSDL\RSS_KQ_XOSO\RSS_KQ_XOSO\obj\Debug\RSS_KQ_XOSO.Form1.resources
+D:\NAM3\Read-rss-LTCSDL\RSS_KQ_XOSO\RSS_KQ_XOSO\obj\Debug\RSS_KQ_XOSO.Properties.Resources.resources
+D:\NAM3\Read-rss-LTCSDL\RSS_KQ_XOSO\RSS_KQ_XOSO\obj\Debug\RSS_KQ_XOSO.csproj.GenerateResource.cache
+D:\NAM3\Read-rss-LTCSDL\RSS_KQ_XOSO\RSS_KQ_XOSO\obj\Debug\RSS_KQ_XOSO.csproj.CoreCompileInputs.cache
+D:\NAM3\Read-rss-LTCSDL\RSS_KQ_XOSO\RSS_KQ_XOSO\obj\Debug\RSS_KQ_XOSO.exe
+D:\NAM3\Read-rss-LTCSDL\RSS_KQ_XOSO\RSS_KQ_XOSO\obj\Debug\RSS_KQ_XOSO.pdb
+D:\NAM3\Read-rss-LTCSDL\RSS_KQ_XOSO\RSS_KQ_XOSO\obj\Debug\RSS_KQ_XOSO.AddNew.resources
+D:\NAM3\Read-rss-LTCSDL\RSS_KQ_XOSO\RSS_KQ_XOSO\obj\Debug\RSS_KQ_XOSO.Component.NewControl.resources

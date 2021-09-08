@@ -1,0 +1,9 @@
+@KẾT QUẢ XỔ SỐ 3 MIỀN
+#Xổ số miền Bắc^https://xoso.me/rss/xo-so-mien-bac.rss
+#Xổ số miền Nam^https://xoso.me/rss/xo-so-mien-nam.rss
+#Xổ số miền Trung^https://xoso.me/rss/xo-so-mien-trung.rss
+#Xổ Số Tây Ninh^https://xoso.me/rss/xo-so-tay-ninh-p18.rss
+#Xổ Số Bình Phước^https://xoso.me/rss/xo-so-binh-phuoc-p6.rss
+#Xổ Số TP.HCM^https://xoso.me/rss/xo-so-thanh-pho-ho-chi-minh-p14.rss
+#Xổ Số An Giang^https://xoso.me/rss/xo-so-an-giang-p2.rss
+#Xổ Số Đà Lạt^https://xoso.me/rss/xo-so-da-lat-p10.rss

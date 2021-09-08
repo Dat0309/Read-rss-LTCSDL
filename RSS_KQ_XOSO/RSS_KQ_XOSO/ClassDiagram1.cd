@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="RSS_KQ_XOSO.AddNew">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACABAAAAQCAAABAAAACAAAACAAAAwAAAAIAgAEAEAgI=</HashCode>
+      <FileName>AddNew.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RSS_KQ_XOSO.Form1">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AyAAAAAQACAAABEQAACBIACCAAQAAAAAAAQAAAgAAgA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RSS_KQ_XOSO.NewFeedManager">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAEAAAAAIQAAAIAAAAAAAAAAAAECAABAAAEAAAAAAA=</HashCode>
+      <FileName>NewFeedManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RSS_KQ_XOSO.Program">
+    <Position X="3.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RSS_KQ_XOSO.Component.NewControl">
+    <Position X="3.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAABAAgCAAAAAAAACAAAACAAAAAAAAgAABAAAEAAA=</HashCode>
+      <FileName>Component\NewControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RSS_KQ_XOSO.IO.NewRepo" BaseTypeListCollapsed="true">
+    <Position X="10.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAFAAAAAAAAAAAAAAEABAAAAAAAAAAA=</HashCode>
+      <FileName>IO\NewRepo.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RSS_KQ_XOSO.Model.Category">
+    <Position X="7" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>Model\Category.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RSS_KQ_XOSO.Model.Lottery">
+    <Position X="12.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAEAAAAIAAAAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>Model\Lottery.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RSS_KQ_XOSO.Model.Publish">
+    <Position X="5.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAIAAAAAAAQAAAAAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Publish.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RSS_KQ_XOSO.Properties.Resources">
+    <Position X="10.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEABEAAAAQAAAAAAAAAIAAAAIIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RSS_KQ_XOSO.Properties.Settings">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RSS_KQ_XOSO.RssFeed.NewParse">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAEAAAAQAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>RssFeed\NewParse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RSS_KQ_XOSO.RssFeed.RssReader">
+    <Position X="12.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAEAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>RssFeed\RssReader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="RSS_KQ_XOSO.IO.INewRepo">
+    <Position X="7" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>IO\INewRepo.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

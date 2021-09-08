@@ -1,0 +1,4 @@
+﻿@KẾT QUẢ XỔ SỐ 3 MIỀN
+#Xổ số miền Bắc^https://xoso.me/rss/xo-so-mien-bac.rss
+#Xổ số miền Nam^https://xoso.me/rss/xo-so-mien-nam.rss
+#Xổ số miền Trung^https://xoso.me/rss/xo-so-mien-trung.rss
